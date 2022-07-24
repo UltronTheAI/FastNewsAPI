@@ -1,2 +1,2 @@
 # FastNewsAPI
-Fetch countries news with python
+Fetch countries news with python 📰
